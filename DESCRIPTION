@@ -1,0 +1,15 @@
+Package: myPackage
+Type: Package
+Title: A package skeleton for Rstudio internship application
+Version: 0.1.0
+Author: Mohamed Abdelkader Abba
+Maintainer: The package maintainer <mabba@ncsu.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    Matrix,
+    testthat
+RoxygenNote: 6.1.0
